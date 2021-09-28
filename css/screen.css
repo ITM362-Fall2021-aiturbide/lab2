@@ -1,20 +1,7 @@
-
-/*html{
-  font-size: 40px;
-  text-align: center;
-}
-div,fieldset {
-    height: 200px;
-    font-size: 20px;
-}
-@-ms-viewport {
-  width: device-width ;
-}
-*/
 body{
   background-color: pink;
 }
-@media screen and (min-width: 500px){ 
+@media screen and (min-width: 500px){
   legend {
     font-size: 5px;
     font-weight: bold;
@@ -26,7 +13,7 @@ body{
   }
   label{
     display: block;
-    text-align: center; 
+    text-align: center;
     font-size: 1.5em;
   }
   input {
@@ -57,4 +44,3 @@ body{
     font-size: 5px;
   }
 }
-
