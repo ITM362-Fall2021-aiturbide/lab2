@@ -46,7 +46,6 @@ body{
 @media screen and (min-width: 1000px){
   form {
     width: 500px;
-    float: center;
   }
   legend {
     font-size: 10px;
